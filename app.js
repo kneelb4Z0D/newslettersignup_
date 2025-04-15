@@ -86,9 +86,3 @@ app.listen(3000  , function(){
 
 
 
-
-// api key
-// {ed0628438de74fd9e29383599d259f75-us12}
-
-// audience id
-// ( 3fd52439fb )
