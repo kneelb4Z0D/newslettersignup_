@@ -6,6 +6,10 @@ const request = require('request');
 const https = require("https");
 require('dotenv').config();
 
+console.log(process.env.MAILCHIMP_SERVER);
+console.log(process.env.MAILCHIMP_LIST_ID);
+
+
 
 
 
